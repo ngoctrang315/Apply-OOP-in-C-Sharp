@@ -1,0 +1,82 @@
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.exe
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.dll.config
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.deps.json
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.runtimeconfig.json
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.pdb
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FHocSin.resources
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FHocSinh.resources
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.AssemblyInfo.cs
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.CopyComplete
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\refint\ThucHanhTuan1.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.pdb
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.genruntimeconfig.cache
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ref\ThucHanhTuan1.dll
+C:\Users\HP\source\repos\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FGiaoVien.resources
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.exe
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.dll.config
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.deps.json
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.runtimeconfig.json
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.pdb
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.AssemblyReference.cache
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FGiaoVien.resources
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FHocSin.resources
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FHocSinh.resources
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.GenerateResource.cache
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.AssemblyInfoInputs.cache
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.AssemblyInfo.cs
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.CoreCompileInputs.cache
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.CopyComplete
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\refint\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.pdb
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.genruntimeconfig.cache
+D:\Year3\HK2\Win\ThucHanhTuan1\ThucHanhTuan1\obj\Debug\net8.0-windows\ref\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.exe
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.dll.config
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.deps.json
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.runtimeconfig.json
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\ThucHanhTuan1.pdb
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.AssemblyReference.cache
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FGiaoVien.resources
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FHocSin.resources
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.FHocSinh.resources
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.UCThongTin.resources
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.GenerateResource.cache
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.AssemblyInfoInputs.cache
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.AssemblyInfo.cs
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.CoreCompileInputs.cache
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.csproj.CopyComplete
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\refint\ThucHanhTuan1.dll
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.pdb
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ThucHanhTuan1.genruntimeconfig.cache
+D:\Year3\HK2\Win\ThucHanhTuan1 - Copy\ThucHanhTuan1\obj\Debug\net8.0-windows\ref\ThucHanhTuan1.dll
